@@ -1,0 +1,6 @@
+timm
+transformers
+torch
+numpy
+fastai
+Pillow == 8.4.0
